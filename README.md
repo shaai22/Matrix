@@ -2,4 +2,4 @@
 
 Курс "Параллельные и распределённые вычисления", задание 1
 
-Собранный проект можно скачать в [релизах](https://github.com/shaai22/Matrix/releases)
+Сборки для Windows x64 можно скачать в [релизах](https://github.com/shaai22/Matrix/releases)
